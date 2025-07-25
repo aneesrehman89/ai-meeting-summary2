@@ -5,9 +5,6 @@ import Providers from '../redux/StoreProvider'
 
 const inter = Inter({ subsets: ['latin'] });
 
-const x = ;
-
-
 
 export const metadata: Metadata = {
   title: 'Create Next App',
