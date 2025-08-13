@@ -20,8 +20,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -31,7 +31,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
->>>>>>> fd172a4e4d7cd1eb8eb866f9ae5d1325208b9730
+> > > > > > > fd172a4e4d7cd1eb8eb866f9ae5d1325208b9730
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
@@ -102,6 +103,5 @@ Built with modern technologies like **Next.js 15**, **React 19**, **Tailwind CSS
 
 - Google Calendar API (for event metadata)
 - Google Drive API (for recordings, optional)
-- OAuth2 for calendar and drive access
-=======
->>>>>>> fd172a4e4d7cd1eb8eb866f9ae5d1325208b9730
+- # OAuth2 for calendar and drive access
+  > > > > > > > fd172a4e4d7cd1eb8eb866f9ae5d1325208b9730

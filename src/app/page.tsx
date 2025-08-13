@@ -40,11 +40,6 @@ export default function Home() {
         >
           Increment By 10
         </Button>
-
-    
-
-
-
       </div>
 
       <div className="mt-12 flex space-x-6">

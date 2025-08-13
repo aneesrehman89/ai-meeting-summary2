@@ -11,7 +11,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:related": "jest --bail --findRelatedTests --passWithNoTests",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
@@ -57,10 +57,10 @@
     "typescript": "^5"
   },
   "lint-staged": {
-  "**/*.{ts,tsx}": [
-    "eslint --fix",
-    "prettier --write",
-    "pnpm test:related --"
-  ]
-}
+    "**/*.{ts,tsx}": [
+      "pnpm format",
+      "pnpm lint",
+      "pnpm test:related --"
+    ]
+  }
 }
