@@ -57,10 +57,10 @@
     "typescript": "^5"
   },
   "lint-staged": {
-  "**/*.{ts,tsx}": [
-    "pnpm format",
-    "pnpm lint",
-    "pnpm test:related --"
-  ]
-}
+    "**/*.{ts,tsx}": [
+      "pnpm format",
+      "pnpm lint",
+      "pnpm test:related --"
+    ]
+  }
 }

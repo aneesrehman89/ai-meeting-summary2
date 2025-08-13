@@ -17,8 +17,6 @@ export default function Home() {
       </div>
 
       <div className="flex space-x-2">
-
-        
         <button
           data-testid="increment-button"
           className="rounded bg-blue-500 px-4 py-2 font-bold text-white transition-all hover:bg-blue-700"
@@ -41,10 +39,7 @@ export default function Home() {
           onClick={() => dispatch(incrementByAmount(10))}
         >
           Increment By 10
-        </Button>    
-
-
-
+        </Button>
       </div>
 
       <div className="mt-12 flex space-x-6">
