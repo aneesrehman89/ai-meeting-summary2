@@ -58,8 +58,8 @@
   },
   "lint-staged": {
   "**/*.{ts,tsx}": [
-    "pnpm eslint --fix",
-    "pnpm prettier --write",
+    "pnpm format",
+    "pnpm lint",
     "pnpm test:related --"
   ]
 }
